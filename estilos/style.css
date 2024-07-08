@@ -3,10 +3,10 @@
     font-size: 16px;
 }
 body{
-    background-color: bisque;
+    background-color: rgb(231, 225, 217);
 }
 main{
-    background:white ;
+    background:rgb(146, 76, 76) ;
     width: 500px;
     margin: auto;
     padding: 10px;
